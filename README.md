@@ -1,17 +1,8 @@
-<picture>
-    <source srcset="public/images/logo.png"  
-            media="(prefers-color-scheme: dark)">
-    <img src="public/images/logo-dark.png" alt="App Logo">
-</picture>
+
 
 # Admin Credentials
 
 > Email: super.admin@test.com || Password: 12345678
-
-## Demo
-
-![Triangle POS](public/images/screenshot.jpg)
-**Live Demo:** will update soon
 
 ## Triangle POS Features
 
