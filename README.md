@@ -4,7 +4,7 @@
 
 > Email: super.admin@test.com || Password: 12345678
 
-## Triangle POS Features
+## POS Features
 
 -   **Products Management & Barcode Printing**
 -   **Stock Management**
